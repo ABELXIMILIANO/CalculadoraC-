@@ -1,0 +1,22 @@
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ABEL\Desktop\Global_Laboratorio_Calculadora-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ABEL\Desktop\laboratorio\calculadora laboratorio 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
